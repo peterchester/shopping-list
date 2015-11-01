@@ -1,6 +1,8 @@
 Shopping List
 =============
 
-* Bananas
-* Pears
-* Strawberries
+* Onions
+* Salt
+* Pepper
+* Chicken Stock
+* Carrots
